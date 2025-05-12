@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Karan
 
 ## 🚀 About Me
-I'm a [your role] with experience in [your skills or interests].
+I'm a developer with experience in Machine Learning and Backend Development.
 
 - 🔭 I’m currently working on: [Project or topic]
 - 🌱 I’m currently learning: [Technology]
