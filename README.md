@@ -1,5 +1,5 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-  <h1>👋 Hi, I'm Karan</h1>
+  <h1 align="center">👋 Hi, I'm Karan</h1>
 
   <h2>🚀 About Me</h2>
   <p>
