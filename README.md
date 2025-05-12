@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**Shadowking912/Shadowking912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a [your role] with experience in [your skills or interests].
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: [Project or topic]
+- 🌱 I’m currently learning: [Technology]
+- 💬 Ask me about: [Topics you're good at]
+- 📫 How to reach me: [Your contact info or socials]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+<!-- Add more badges from shields.io -->
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true)
+
