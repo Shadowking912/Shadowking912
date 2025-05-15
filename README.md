@@ -3,7 +3,7 @@
 
   <h2>🚀 About Me</h2>
   <p>
-    I'm a <strong>software developer</strong> with experience in Backend development and machine learning.<br>
+    I'm a <strong>software developer</strong> with experience in AI, Machine Learning, Systems and Backend development<br>
     🔭 Currently working on: <em>Open-source ML projects</em><br>
 <!--     🌱 Learning: <em>Rust and MLOps</em><br> -->
 <!--     💬 Ask me about: <em>React, Python, GitHub Actions</em><br> -->
